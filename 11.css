@@ -1,0 +1,31 @@
+#preview
+{
+	width: 40%;
+	height: auto;
+}
+#date
+{
+	text-decoration: overline;
+	font-size: 1.5rem;
+}
+#container
+{
+	padding: 1rem;
+}
+#info 
+{
+	font-size:2rem;
+}
+span
+{
+	text-decoration: line-through;
+}
+body
+{
+	background: linear-gradient(
+		to right,
+		#20e2de,
+		#9a00e0
+	);
+	color: #ff0;
+}
